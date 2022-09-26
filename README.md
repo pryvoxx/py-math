@@ -13,3 +13,5 @@ trouvez le chemin du fichier python sur votre ordinateur, puis tapez cette comma
 --> cd LE CHEMIN DU FICHIER 
 
 puis pour le lancer vous devrez tapez ceci --> python3 py-math.py 
+
+![Capture_decran_2022-06-08_141353](https://user-images.githubusercontent.com/99809467/192314521-4b16f9bd-9d01-45ea-a1fc-83c1d97ca291.png)
