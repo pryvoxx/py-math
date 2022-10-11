@@ -1,4 +1,4 @@
-# faire un script calculator 
+
 # importer les modules néacaissaires 
 from pystyle import Write, Colors, Box 
 import math 
